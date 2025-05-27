@@ -63,8 +63,7 @@ git clone https://github.com/kofresh/PD-mskprog
 
 ## 🔗 Полезные ссылки
 
-- GitHub репозиторий: [https://github.com/kofresh/PD-mskprog](https://github.com/kofresh/PD-mskprog)
-- Сайт музея: [ссылка на сайт музея]
+- GitHub репозиторий: https://github.com/kofresh/PD-mskprog
 
 ## 🚀 Перспективы развития
 
